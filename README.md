@@ -1,4 +1,5 @@
 # Drink Command Line App
+*This is a project for the SheNomads Mentorship Program.*
 
 ### How to run the app
 
